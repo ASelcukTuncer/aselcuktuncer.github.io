@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hakkimda on ASelcuk</title>
+    <link>https://aselcuktuncer.github.io/hakkimda/</link>
+    <description>Recent content in Hakkimda on ASelcuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <lastBuildDate>Wed, 26 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aselcuktuncer.github.io/hakkimda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
