@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yazilar on ASelcuk</title>
+    <title>Yazılar on ASelcuk</title>
     <link>https://aselcuktuncer.github.io/yazilar/</link>
-    <description>Recent content in Yazilar on ASelcuk</description>
+    <description>Recent content in Yazılar on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <lastBuildDate>Wed, 26 Jun 2019 12:58:13 +0300</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Anlamak</title>
-      <link>https://aselcuktuncer.github.io/yazilar/anlamak/</link>
-      <pubDate>Wed, 26 Jun 2019 22:19:25 +0300</pubDate>
+      <title>İlk Adım</title>
+      <link>https://aselcuktuncer.github.io/yazilar/ilkadim/</link>
+      <pubDate>Thu, 27 Jun 2019 00:25:49 +0300</pubDate>
       
-      <guid>https://aselcuktuncer.github.io/yazilar/anlamak/</guid>
-      <description>NASI CALISIYO ULAN BU SEY!!!!</description>
+      <guid>https://aselcuktuncer.github.io/yazilar/ilkadim/</guid>
+      <description>İlk yazım.. Cektiğim onca acıdan sonra.. Olala!</description>
     </item>
     
   </channel>
