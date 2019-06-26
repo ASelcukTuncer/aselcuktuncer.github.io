@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on ASelcuk</title>
+    <title>ASelcuk</title>
     <link>https://aselcuktuncer.github.io/series/</link>
-    <description>Recent content in Series on ASelcuk</description>
+    <description>Recent content on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Jun 2019 12:58:13 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 22:07:07 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Usak</title>
+      <title>Kosu</title>
+      <link>https://aselcuktuncer.github.io/geziler/kosu/</link>
+      <pubDate>Wed, 26 Jun 2019 22:07:07 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/geziler/kosu/</guid>
+      <description>Yazalim bisiler</description>
+    </item>
+    
+  </channel>
+</rss>title>
       <link>https://aselcuktuncer.github.io/series/usak/</link>
       <pubDate>Wed, 26 Jun 2019 12:58:13 +0300</pubDate>
       
