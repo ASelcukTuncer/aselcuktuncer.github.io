@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ASelcuk</title>
+    <title>ASelcuk</title>
     <link>https://aselcuktuncer.github.io/categories/</link>
-    <description>Recent content in Categories on ASelcuk</description>
+    <description>Recent content on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <lastBuildDate>Wed, 26 Jun 2019 19:30:34 +0300</lastBuildDate>
@@ -12,17 +12,16 @@
     
     
     <item>
-      <title></title>
-      <link>https://aselcuktuncer.github.io/categories/</link>
+      <title>Yeniyazı</title>
+      <link>https://aselcuktuncer.github.io/geziler/yeniyaz%C4%B1/</link>
       <pubDate>Wed, 26 Jun 2019 19:30:34 +0300</pubDate>
       
-      <guid>https://aselcuktuncer.github.io/categories/</guid>
-      <description></description>
+      <guid>https://aselcuktuncer.github.io/geziler/yeniyaz%C4%B1/</guid>
+      <description>Selamlar. Hosgeldin.</description>
     </item>
     
-    <item>
-      <title>kitap</title>
-      <link>https://aselcuktuncer.github.io/categories/kitap/</link>
+  </channel>
+</rss>  <link>https://aselcuktuncer.github.io/categories/kitap/</link>
       <pubDate>Wed, 26 Jun 2019 12:58:13 +0300</pubDate>
       
       <guid>https://aselcuktuncer.github.io/categories/kitap/</guid>
