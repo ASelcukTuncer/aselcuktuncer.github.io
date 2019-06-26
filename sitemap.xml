@@ -3,50 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aselcuktuncer.github.io/categories/</loc>
-    <lastmod>2019-06-26T22:07:07+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aselcuktuncer.github.io/series/</loc>
-    <lastmod>2019-06-26T22:07:07+03:00</lastmod>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aselcuktuncer.github.io/tags/</loc>
-    <lastmod>2019-06-26T22:07:07+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/</loc>
-    <lastmod>2019-06-26T22:07:07+03:00</lastmod>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aselcuktuncer.github.io/categories/</loc>
-    <lastmod>2019-06-26T22:07:07+03:00</lastmod>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/</loc>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/yazilar/anlamak/</loc>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/categories/</loc>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/series/</loc>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/</loc>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/bisiklet/</loc>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/series/seyahat/</loc>
+    <lastmod>2019-06-26T22:19:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aselcuktuncer.github.io/geziler/kosu/</loc>
     <lastmod>2019-06-26T22:07:07+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/series/</loc>
-    <lastmod>2019-06-26T22:07:07+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/</loc>
-    <lastmod>2019-06-26T22:07:07+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,25 +88,19 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/tags/bisiklet/</loc>
-    <lastmod>2019-06-26T12:58:13+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aselcuktuncer.github.io/tags/kamp/</loc>
     <lastmod>2019-06-26T12:58:13+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/categories/kitap/</loc>
+    <loc>https://aselcuktuncer.github.io/tags/kitap/</loc>
     <lastmod>2019-06-26T12:58:13+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/tags/kitap/</loc>
+    <loc>https://aselcuktuncer.github.io/categories/kitap/</loc>
     <lastmod>2019-06-26T12:58:13+03:00</lastmod>
     <priority>0</priority>
   </url>

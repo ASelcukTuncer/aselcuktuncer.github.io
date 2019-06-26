@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seyahat on ASelcuk</title>
+    <link>https://aselcuktuncer.github.io/series/seyahat/</link>
+    <description>Recent content in seyahat on ASelcuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <lastBuildDate>Wed, 26 Jun 2019 22:19:25 +0300</lastBuildDate>
+    
+	<atom:link href="https://aselcuktuncer.github.io/series/seyahat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anlamak</title>
+      <link>https://aselcuktuncer.github.io/yazilar/anlamak/</link>
+      <pubDate>Wed, 26 Jun 2019 22:19:25 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/yazilar/anlamak/</guid>
+      <description>NASI CALISIYO ULAN BU SEY!!!!</description>
+    </item>
+    
+  </channel>
+</rss>
