@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ASelcuk</title>
+    <title>ASelcuk</title>
     <link>https://aselcuktuncer.github.io/tags/</link>
-    <description>Recent content in Tags on ASelcuk</description>
+    <description>Recent content on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <lastBuildDate>Wed, 26 Jun 2019 22:19:25 +0300</lastBuildDate>
@@ -12,66 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://aselcuktuncer.github.io/tags/</link>
-      <pubDate>Wed, 26 Jun 2019 22:19:25 +0300</pubDate>
+      <title>Kosu</title>
+      <link>https://aselcuktuncer.github.io/geziler/kosu/</link>
+      <pubDate>Wed, 26 Jun 2019 22:07:07 +0300</pubDate>
       
-      <guid>https://aselcuktuncer.github.io/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bisiklet</title>
-      <link>https://aselcuktuncer.github.io/tags/bisiklet/</link>
-      <pubDate>Wed, 26 Jun 2019 22:19:25 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/tags/bisiklet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kamp</title>
-      <link>https://aselcuktuncer.github.io/tags/kamp/</link>
-      <pubDate>Wed, 26 Jun 2019 12:58:13 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/tags/kamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kitap</title>
-      <link>https://aselcuktuncer.github.io/tags/kitap/</link>
-      <pubDate>Wed, 26 Jun 2019 12:58:13 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/tags/kitap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tavsiye</title>
-      <link>https://aselcuktuncer.github.io/tags/tavsiye/</link>
-      <pubDate>Wed, 26 Jun 2019 12:58:13 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/tags/tavsiye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ustads</title>
-      <link>https://aselcuktuncer.github.io/tags/ustads/</link>
-      <pubDate>Wed, 26 Jun 2019 12:58:13 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/tags/ustads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>yolculuk</title>
-      <link>https://aselcuktuncer.github.io/tags/yolculuk/</link>
-      <pubDate>Wed, 26 Jun 2019 12:58:13 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/tags/yolculuk/</guid>
-      <description></description>
+      <guid>https://aselcuktuncer.github.io/geziler/kosu/</guid>
+      <description>Yazalim bisiler</description>
     </item>
     
   </channel>
