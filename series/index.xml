@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ASelcuk</title>
+    <title>Series on ASelcuk</title>
     <link>https://aselcuktuncer.github.io/series/</link>
-    <description>Recent content on ASelcuk</description>
+    <description>Recent content in Series on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <lastBuildDate>Thu, 27 Jun 2019 00:25:49 +0300</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>İlk Adım</title>
-      <link>https://aselcuktuncer.github.io/yazilar/ilkadim/</link>
+      <title></title>
+      <link>https://aselcuktuncer.github.io/series/</link>
       <pubDate>Thu, 27 Jun 2019 00:25:49 +0300</pubDate>
       
-      <guid>https://aselcuktuncer.github.io/yazilar/ilkadim/</guid>
-      <description>İlk yazım.. Cektiğim onca acıdan sonra.. Olala!</description>
+      <guid>https://aselcuktuncer.github.io/series/</guid>
+      <description></description>
     </item>
     
   </channel>
