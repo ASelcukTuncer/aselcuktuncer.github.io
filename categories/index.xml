@@ -6,10 +6,19 @@
     <description>Recent content in Categories on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Jun 2019 00:25:49 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 22:36:29 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bisiklet</title>
+      <link>https://aselcuktuncer.github.io/categories/bisiklet/</link>
+      <pubDate>Fri, 28 Jun 2019 22:36:29 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/categories/bisiklet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Yazılar</title>
