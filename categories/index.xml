@@ -6,7 +6,7 @@
     <description>Recent content in Categories on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Jun 2019 22:36:29 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 02:50:55 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Bisiklet</title>
       <link>https://aselcuktuncer.github.io/categories/bisiklet/</link>
-      <pubDate>Fri, 28 Jun 2019 22:36:29 +0300</pubDate>
+      <pubDate>Fri, 05 Jul 2019 02:50:55 +0300</pubDate>
       
       <guid>https://aselcuktuncer.github.io/categories/bisiklet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yolculuk</title>
+      <link>https://aselcuktuncer.github.io/categories/yolculuk/</link>
+      <pubDate>Fri, 05 Jul 2019 02:50:55 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/categories/yolculuk/</guid>
       <description></description>
     </item>
     
