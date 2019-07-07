@@ -1,137 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/bisiklet/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/series/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/geziler/usak_gezisi-2/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/yolculuk/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/arkada%C5%9Flar/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/banaz/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/bisiklet/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/sivasl%C4%B1/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/ulubey-kanyonu/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/series/usak/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/u%C5%9Fak/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/yolculuk/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/geziler/usak_gezisi/</loc>
-    <lastmod>2019-06-28T22:36:29+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/seyahat/</loc>
-    <lastmod>2019-06-28T22:36:29+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/akl%C4%B1mdakiler/</loc>
-    <lastmod>2019-06-27T00:25:49+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/yaz%C4%B1lar/</loc>
-    <lastmod>2019-06-27T00:25:49+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/yazilar/ilkadim/</loc>
-    <lastmod>2019-06-27T00:25:49+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/yazilar/</loc>
-    <lastmod>2019-06-26T12:58:13+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/hakkimda/</loc>
-    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/geziler/</loc>
-    <lastmod>2018-09-13T22:31:21+08:00</lastmod>
-  </url>
-  
+&lt;?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://aselcuktuncer.github.io/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/geziler/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/yazilar/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/hakkimda/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/categories/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/categories/bisiklet/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/categories/yolculuk/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/tags/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/tags/bisiklet/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/tags/banaz/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/tags/seyahat/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/tags/yolculuk/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/series/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/series/usak/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/geziler/usak_gezisi-2/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/tags/ulubey-kanyonu/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/geziler/usak_gezisi/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aselcuktuncer.github.io/yazilar/ilkadim/</loc>
+  <lastmod>2019-07-05T15:23:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
