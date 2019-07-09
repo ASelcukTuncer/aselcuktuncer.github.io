@@ -6,10 +6,19 @@
     <description>Recent content in Series on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Fri, 05 Jul 2019 02:50:55 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 21:30:50 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ilham</title>
+      <link>https://aselcuktuncer.github.io/series/ilham/</link>
+      <pubDate>Mon, 08 Jul 2019 21:30:50 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/series/ilham/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>usak</title>

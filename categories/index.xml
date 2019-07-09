@@ -6,10 +6,28 @@
     <description>Recent content in Categories on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Fri, 05 Jul 2019 02:50:55 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 21:30:50 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>aklimdakiler</title>
+      <link>https://aselcuktuncer.github.io/categories/aklimdakiler/</link>
+      <pubDate>Mon, 08 Jul 2019 21:30:50 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/categories/aklimdakiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tavsiyeler</title>
+      <link>https://aselcuktuncer.github.io/categories/tavsiyeler/</link>
+      <pubDate>Mon, 08 Jul 2019 21:30:50 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/categories/tavsiyeler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bisiklet</title>
@@ -26,15 +44,6 @@
       <pubDate>Fri, 05 Jul 2019 02:50:55 +0300</pubDate>
       
       <guid>https://aselcuktuncer.github.io/categories/yolculuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yazılar</title>
-      <link>https://aselcuktuncer.github.io/categories/yaz%C4%B1lar/</link>
-      <pubDate>Thu, 27 Jun 2019 00:25:49 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/categories/yaz%C4%B1lar/</guid>
       <description></description>
     </item>
     

@@ -6,26 +6,35 @@
     <description>Recent content on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Fri, 05 Jul 2019 02:50:55 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 21:30:50 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>İlhamperest</title>
+      <link>https://aselcuktuncer.github.io/yazilar/ilhamperest/</link>
+      <pubDate>Mon, 08 Jul 2019 21:30:50 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/yazilar/ilhamperest/</guid>
+      <description>Beni etkileyenler sizi de etkilerlerler, belki..</description>
+    </item>
+    
+    <item>
       <title>Uşak&#39;ın İlçeleri-1</title>
-      <link>https://aselcuktuncer.github.io/geziler/usak_gezisi-2/</link>
+      <link>https://aselcuktuncer.github.io/geziler/usak-gezisi-2/</link>
       <pubDate>Fri, 05 Jul 2019 02:50:55 +0300</pubDate>
       
-      <guid>https://aselcuktuncer.github.io/geziler/usak_gezisi-2/</guid>
+      <guid>https://aselcuktuncer.github.io/geziler/usak-gezisi-2/</guid>
       <description>Uşak&amp;rsquo;ın ilçelerine yaptığım yolculuklara dair gezi yazıları..</description>
     </item>
     
     <item>
       <title>Bisiklete Dair</title>
-      <link>https://aselcuktuncer.github.io/geziler/usak_gezisi/</link>
+      <link>https://aselcuktuncer.github.io/geziler/usak-gezisi/</link>
       <pubDate>Fri, 28 Jun 2019 22:36:29 +0300</pubDate>
       
-      <guid>https://aselcuktuncer.github.io/geziler/usak_gezisi/</guid>
+      <guid>https://aselcuktuncer.github.io/geziler/usak-gezisi/</guid>
       <description>Bisiklet binmek ve Uşak&amp;rsquo;ta seyahat etmek hakkında..</description>
     </item>
     
@@ -35,7 +44,7 @@
       <pubDate>Thu, 27 Jun 2019 00:25:49 +0300</pubDate>
       
       <guid>https://aselcuktuncer.github.io/yazilar/ilkadim/</guid>
-      <description>İlk yazım.. Cektiğim onca acıdan sonra.. Olala!</description>
+      <description>İlk yazım.. Çektiğim onca acıdan sonra.. Olala!</description>
     </item>
     
   </channel>

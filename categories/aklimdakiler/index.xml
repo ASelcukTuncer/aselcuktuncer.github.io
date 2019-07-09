@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aklimdakiler on ASelcuk</title>
+    <link>https://aselcuktuncer.github.io/categories/aklimdakiler/</link>
+    <description>Recent content in aklimdakiler on ASelcuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <lastBuildDate>Mon, 08 Jul 2019 21:30:50 +0300</lastBuildDate>
+    
+	<atom:link href="https://aselcuktuncer.github.io/categories/aklimdakiler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>İlhamperest</title>
+      <link>https://aselcuktuncer.github.io/yazilar/ilhamperest/</link>
+      <pubDate>Mon, 08 Jul 2019 21:30:50 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/yazilar/ilhamperest/</guid>
+      <description>Beni etkileyenler sizi de etkilerlerler, belki..</description>
+    </item>
+    
+    <item>
+      <title>İlk Adım</title>
+      <link>https://aselcuktuncer.github.io/yazilar/ilkadim/</link>
+      <pubDate>Thu, 27 Jun 2019 00:25:49 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/yazilar/ilkadim/</guid>
+      <description>İlk yazım.. Çektiğim onca acıdan sonra.. Olala!</description>
+    </item>
+    
+  </channel>
+</rss>

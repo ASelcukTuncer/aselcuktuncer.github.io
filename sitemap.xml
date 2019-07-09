@@ -4,8 +4,99 @@
   
   <url>
     <loc>https://aselcuktuncer.github.io/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/categories/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/series/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/categories/aklimdakiler/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/aklimdakiler/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/casey-neistat/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/gurkan-genc/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/hale-sargin/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/hasan-soylemez/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/series/ilham/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/ilham/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/tavsiye/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/categories/tavsiyeler/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/tvmisha/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/yazilar/ilhamperest/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   
   <url>
@@ -15,25 +106,7 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/categories/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/series/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/</loc>
-    <lastmod>2019-07-05T02:50:55+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/geziler/usak_gezisi-2/</loc>
+    <loc>https://aselcuktuncer.github.io/geziler/usak-gezisi-2/</loc>
     <lastmod>2019-07-05T02:50:55+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -46,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/tags/arkada%C5%9Flar/</loc>
+    <loc>https://aselcuktuncer.github.io/tags/arkadaslar/</loc>
     <lastmod>2019-07-05T02:50:55+03:00</lastmod>
     <priority>0</priority>
   </url>
@@ -64,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/tags/sivasl%C4%B1/</loc>
+    <loc>https://aselcuktuncer.github.io/tags/sivasli/</loc>
     <lastmod>2019-07-05T02:50:55+03:00</lastmod>
     <priority>0</priority>
   </url>
@@ -82,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/tags/u%C5%9Fak/</loc>
+    <loc>https://aselcuktuncer.github.io/tags/usak/</loc>
     <lastmod>2019-07-05T02:50:55+03:00</lastmod>
     <priority>0</priority>
   </url>
@@ -94,7 +167,7 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/geziler/usak_gezisi/</loc>
+    <loc>https://aselcuktuncer.github.io/geziler/usak-gezisi/</loc>
     <lastmod>2019-06-28T22:36:29+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -103,18 +176,6 @@
   <url>
     <loc>https://aselcuktuncer.github.io/tags/seyahat/</loc>
     <lastmod>2019-06-28T22:36:29+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/akl%C4%B1mdakiler/</loc>
-    <lastmod>2019-06-27T00:25:49+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/yaz%C4%B1lar/</loc>
-    <lastmod>2019-06-27T00:25:49+03:00</lastmod>
     <priority>0</priority>
   </url>
   
