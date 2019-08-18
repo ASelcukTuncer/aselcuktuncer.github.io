@@ -6,15 +6,24 @@
     <description>Recent content in Categories on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Mon, 29 Jul 2019 22:59:38 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 21:33:44 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bisiklet</title>
+      <link>https://aselcuktuncer.github.io/categories/bisiklet/</link>
+      <pubDate>Sun, 18 Aug 2019 21:33:44 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/categories/bisiklet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Yolculuk</title>
       <link>https://aselcuktuncer.github.io/categories/yolculuk/</link>
-      <pubDate>Mon, 29 Jul 2019 22:59:38 +0300</pubDate>
+      <pubDate>Sun, 18 Aug 2019 21:33:44 +0300</pubDate>
       
       <guid>https://aselcuktuncer.github.io/categories/yolculuk/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Mon, 08 Jul 2019 21:30:50 +0300</pubDate>
       
       <guid>https://aselcuktuncer.github.io/categories/tavsiyeler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bisiklet</title>
-      <link>https://aselcuktuncer.github.io/categories/bisiklet/</link>
-      <pubDate>Fri, 05 Jul 2019 02:50:55 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/categories/bisiklet/</guid>
       <description></description>
     </item>
     
