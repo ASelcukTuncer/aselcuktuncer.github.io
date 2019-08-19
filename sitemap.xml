@@ -33,6 +33,12 @@
   </url>
   
   <url>
+    <loc>https://aselcuktuncer.github.io/categories/tum-yaz%C4%B1lar/</loc>
+    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aselcuktuncer.github.io/geziler/usak-gezisi-3/</loc>
     <lastmod>2019-08-18T21:33:44+03:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -149,13 +155,19 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/tags/aklimdakiler/</loc>
+    <loc>https://aselcuktuncer.github.io/categories/aklimdakiler/</loc>
     <lastmod>2019-07-08T21:30:50+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/categories/aklimdakiler/</loc>
+    <loc>https://aselcuktuncer.github.io/categories/tavsiyeler/</loc>
+    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/aklimdakiler/</loc>
     <lastmod>2019-07-08T21:30:50+03:00</lastmod>
     <priority>0</priority>
   </url>
@@ -198,12 +210,6 @@
   
   <url>
     <loc>https://aselcuktuncer.github.io/tags/tavsiye/</loc>
-    <lastmod>2019-07-08T21:30:50+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/tavsiyeler/</loc>
     <lastmod>2019-07-08T21:30:50+03:00</lastmod>
     <priority>0</priority>
   </url>
