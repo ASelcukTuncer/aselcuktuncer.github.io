@@ -4,19 +4,116 @@
   
   <url>
     <loc>https://aselcuktuncer.github.io/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://aselcuktuncer.github.io/geziler/bir-ege-macerasi/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://aselcuktuncer.github.io/categories/bisiklet/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aselcuktuncer.github.io/categories/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/categories/tum-yazilar/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/categories/yolculuk/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/arkadaslar/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/aydin/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/bafa-golu/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/bisiklet/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/bodrum/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/izmir/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/kusadasi/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/milas/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/mugla/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/selcuk/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/soke/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/yolculuk/</loc>
+    <lastmod>2019-08-29T19:07:26+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -27,40 +124,10 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/tags/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/tum-yazilar/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aselcuktuncer.github.io/geziler/usak-gezisi-3/</loc>
     <lastmod>2019-08-18T21:33:44+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/categories/yolculuk/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/arkadaslar/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/bisiklet/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -95,12 +162,6 @@
   
   <url>
     <loc>https://aselcuktuncer.github.io/tags/usak/</loc>
-    <lastmod>2019-08-18T21:33:44+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aselcuktuncer.github.io/tags/yolculuk/</loc>
     <lastmod>2019-08-18T21:33:44+03:00</lastmod>
     <priority>0</priority>
   </url>
