@@ -6,10 +6,28 @@
     <description>Recent content in Categories on ASelcuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Thu, 29 Aug 2019 19:07:26 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 01:40:59 +0300</lastBuildDate>
     
 	<atom:link href="https://aselcuktuncer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aklimdakiler</title>
+      <link>https://aselcuktuncer.github.io/categories/aklimdakiler/</link>
+      <pubDate>Thu, 16 Jan 2020 01:40:59 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/categories/aklimdakiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tum Yazilar</title>
+      <link>https://aselcuktuncer.github.io/categories/tum-yazilar/</link>
+      <pubDate>Thu, 16 Jan 2020 01:40:59 +0300</pubDate>
+      
+      <guid>https://aselcuktuncer.github.io/categories/tum-yazilar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bisiklet</title>
@@ -21,29 +39,11 @@
     </item>
     
     <item>
-      <title>Tum Yazilar</title>
-      <link>https://aselcuktuncer.github.io/categories/tum-yazilar/</link>
-      <pubDate>Thu, 29 Aug 2019 19:07:26 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/categories/tum-yazilar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yolculuk</title>
       <link>https://aselcuktuncer.github.io/categories/yolculuk/</link>
       <pubDate>Thu, 29 Aug 2019 19:07:26 +0300</pubDate>
       
       <guid>https://aselcuktuncer.github.io/categories/yolculuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aklimdakiler</title>
-      <link>https://aselcuktuncer.github.io/categories/aklimdakiler/</link>
-      <pubDate>Mon, 08 Jul 2019 21:30:50 +0300</pubDate>
-      
-      <guid>https://aselcuktuncer.github.io/categories/aklimdakiler/</guid>
       <description></description>
     </item>
     
