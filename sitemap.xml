@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>https://aselcuktuncer.github.io/yazilar/2020/cosmosepiton/</loc>
+    <loc>https://aselcuktuncer.github.io/yazilar/2020/kozmolojik-tragedya/</loc>
     <lastmod>2020-04-23T03:28:28+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -40,7 +40,19 @@
   </url>
   
   <url>
+    <loc>https://aselcuktuncer.github.io/tags/bilimkurgu/</loc>
+    <lastmod>2020-04-23T03:28:28+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aselcuktuncer.github.io/tags/cosmos/</loc>
+    <lastmod>2020-04-23T03:28:28+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aselcuktuncer.github.io/tags/hikaye/</loc>
     <lastmod>2020-04-23T03:28:28+03:00</lastmod>
     <priority>0</priority>
   </url>
